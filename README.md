@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmed%20Maher%20Sabeq&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20%26%20Cloud%20Engineer&descAlignY=58&descSize=18&descColor=61dafb" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmed%20Maher%20Sabeq&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=DevOps%20%26%20Cloud%20Engineer&descSize=20&descAlignY=60&descColor=61dafb&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Infrastructure+as+Code+Enthusiast+%F0%9F%8F%97%EF%B8%8F;GitOps+%7C+Kubernetes+%7C+Cloud+Native+%E2%9A%93;Automating+everything+so+humans+don't+have+to+%F0%9F%A4%96;AWS+%7C+GCP+%7C+Terraform+%7C+ArgoCD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Infrastructure+as+Code+Enthusiast;GitOps+%7C+Kubernetes+%7C+Cloud+Native;Automating+everything+so+humans+don't+have+to;AWS+%7C+GCP+%7C+Terraform+%7C+ArgoCD)](https://git.io/typing-svg)
 
 </div>
 
