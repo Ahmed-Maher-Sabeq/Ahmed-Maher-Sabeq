@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Ahmed%20Maher%20Sabeq&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=DevOps%20%26%20Cloud%20Engineer&amp;descSize=20&amp;descAlignY=60&amp;descColor=61dafb&amp;animation=fadeIn" width="100%"/>
+# Ahmed Maher Sabeq
+### DevOps &amp; Cloud Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=61DAFB&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Infrastructure+as+Code+Enthusiast;GitOps+%7C+Kubernetes+%7C+Cloud+Native;Automating+everything+so+humans+don't+have+to;AWS+%7C+GCP+%7C+Terraform+%7C+ArgoCD)](https://git.io/typing-svg)
 
