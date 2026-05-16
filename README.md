@@ -20,35 +20,25 @@ I'm a DevOps &amp; Cloud Engineer based in New Cairo, Egypt. I recently complete
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud Platforms
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" alt="GCP"/>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### ⚙️ CI/CD &amp; Automation
-<img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&amp;logo=argo&amp;logoColor=white" alt="ArgoCD"/>
+### ⚙️ CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
 
-### 🐳 Containerization &amp; Orchestration
-<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=for-the-badge&amp;logo=red-hat-open-shift&amp;logoColor=white" alt="OpenShift"/>
+### 🐳 Containerization & Orchestration
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)
 
 ### 🏗️ Infrastructure as Code
-<img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
-<img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&amp;logo=ansible&amp;logoColor=white" alt="Ansible"/>
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-### 💻 Programming &amp; Scripting
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"/>
-<img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" alt="Bash"/>
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🐧 Operating Systems
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu"/>
-<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&amp;logo=redhat&amp;logoColor=white" alt="Red Hat"/>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
-### 📊 Monitoring &amp; Logging
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&amp;logo=Prometheus&amp;logoColor=white" alt="Prometheus"/>
-<img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&amp;logo=grafana&amp;logoColor=white" alt="Grafana"/>
+### 📊 Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
